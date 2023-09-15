@@ -1,0 +1,4 @@
+Esto es un archivo de prueba para un ejercicio
+sobre repositorios en GitHub.
+Lo he creado con cat y para terminar de introducir líneas,
+presionamos ctrl+D.
